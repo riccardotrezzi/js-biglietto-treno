@@ -17,6 +17,8 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 - Devo comprare un biglietto:
 1. Chiedere all'utente dove deve andare (i chilometri da fare)
 2. Chiedere l'età del passeggero
-3. SE il passeggero è minorenne applicare sconto del 20%, ALTRIMENTI prezzo intero
-4. SE il passeggero è Over 65 applicare sconto del 40%, altrimenti prezzo intero
+3. Calcolo il prezzo base del biglietto
+4. Calcolo Sconti
+4.1. SE il passeggero è minorenne applicare sconto del 20%, ALTRIMENTI prezzo intero
+4.2. SE il passeggero è Over 65 applicare sconto del 40%, altrimenti prezzo intero
 
